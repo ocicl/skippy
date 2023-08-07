@@ -1,0 +1,9 @@
+* skippy
+
+Common Lisp GIF library
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/xach/skippy.git |
+| commit  | e456210                                |
+| systems | skippy                                 |
+|---------+----------------------------------------|
