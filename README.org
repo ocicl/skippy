@@ -7,4 +7,4 @@ Common Lisp GIF library
 | commit  | e456210                                |
 | systems | skippy                                 |
 |---------+----------------------------------------|
- 
+  
